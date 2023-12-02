@@ -2,17 +2,14 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="data">
-      <UniqueIdentifier>{f7a005d2-f974-4217-b4c1-084076768449}</UniqueIdentifier>
+      <UniqueIdentifier>{21b41f6e-52f2-4349-b41b-5a93d9a03ab6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day1.cpp" />
+    <ClCompile Include="day2.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="data\input2">
-      <Filter>data</Filter>
-    </None>
-    <None Include="data\input3">
+    <None Include="data\test_input">
       <Filter>data</Filter>
     </None>
   </ItemGroup>

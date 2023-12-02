@@ -84,7 +84,7 @@ void p2(std::istream& ifs)
 
 int main()
 {
-	std::ifstream ifs("input");
+	std::ifstream ifs("data/input");
 	if (!ifs) {
 		std::cout << "input not found\n";
 		return 1;
