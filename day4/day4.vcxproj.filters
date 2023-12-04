@@ -2,11 +2,11 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="data">
-      <UniqueIdentifier>{21b41f6e-52f2-4349-b41b-5a93d9a03ab6}</UniqueIdentifier>
+      <UniqueIdentifier>{1b9aae92-58d5-4c16-a94a-a565f2e9a9b5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day2.cpp" />
+    <ClCompile Include="day4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <CopyFileToFolders Include="data\input">

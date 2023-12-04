@@ -6,14 +6,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="data\test_input">
-      <Filter>data</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <CopyFileToFolders Include="data\input">
       <Filter>data</Filter>
     </CopyFileToFolders>
+    <CopyFileToFolders Include="data\test_input" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="day3.cpp" />

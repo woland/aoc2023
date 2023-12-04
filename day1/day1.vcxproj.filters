@@ -9,16 +9,10 @@
     <ClCompile Include="day1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="data\input2">
-      <Filter>data</Filter>
-    </None>
-    <None Include="data\input3">
-      <Filter>data</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <CopyFileToFolders Include="data\input">
       <Filter>data</Filter>
     </CopyFileToFolders>
+    <CopyFileToFolders Include="data\input2" />
+    <CopyFileToFolders Include="data\input3" />
   </ItemGroup>
 </Project>
